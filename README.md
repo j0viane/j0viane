@@ -1,16 +1,15 @@
-## Hi there 👋
+# Who's Joviane and What's She Building?
 
-<!--
-**j0viane/j0viane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I have a **MS in Computer Science** (Northeastern) and ~3 years shipping **Python, SQL, and data pipelines** at enterprise scale — CI/CD, automation, and GenAI integration. I'm focused on **agentic AI systems**, browser automation, and software that holds up in messy, real-world conditions.
 
-Here are some ideas to get you started:
+**Experience**  
+Enterprise data platforms · pipeline automation · demo engineering · GenAI workflows · customer-facing technical delivery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background**  
+MS Computer Science · Northeastern · BS Biochemistry
+
+**Tools**  
+Python · SQL · Streamlit · Docker · GitHub Actions · FastAPI · Playwright · LLM APIs
+
+**Elsewhere**  
+[LinkedIn](https://www.linkedin.com/in/jovianebellegarde/) · Boston, MA
