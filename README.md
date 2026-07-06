@@ -4,12 +4,3 @@ Hi 👋 I have a **MS in Computer Science** (Northeastern) and ~3 years shipping
 
 **Experience**  
 Enterprise data platforms · pipeline automation · demo engineering · GenAI workflows · customer-facing technical delivery
-
-**Background**  
-MS Computer Science · Northeastern · BS Biochemistry
-
-**Tools**  
-Python · SQL · Streamlit · Docker · GitHub Actions · FastAPI · Playwright · LLM APIs
-
-**Elsewhere**  
-[LinkedIn](https://www.linkedin.com/in/jovianebellegarde/) · Boston, MA
